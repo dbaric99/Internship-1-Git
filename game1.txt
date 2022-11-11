@@ -2,5 +2,5 @@ Damjana ima 2 pobjeda i 0 poraza!
 Marina ima 0 pobjeda i 2 poraza!
 
 x o x
-. x .
-. . o
+o x .
+o . o
